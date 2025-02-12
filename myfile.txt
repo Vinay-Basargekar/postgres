@@ -1,0 +1,3 @@
+postgresql://neondb_owner:npg_NOw1g9slBDva@ep-red-fog-a4snnidu-pooler.us-east-1.aws.neon.tech/neondb?sslmode=require
+
+postgresql://neondb_owner:npg_NOw1g9slBDva@ep-red-fog-a4snnidu-pooler.us-east-1.aws.neon.tech/neondb?sslmode=require
