@@ -75,3 +75,6 @@ async function getUser(email:string){
 // createUsersTable();
 // insertUserData();
 getUser("vinay@gmail.com");
+
+
+  
